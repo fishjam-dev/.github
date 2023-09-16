@@ -16,6 +16,8 @@ Client SDKs:
 * [TypeScript][ts-client-sdk]
 * [React][react-client-sdk]
 * [React Native][react-native-client-sdk]
+* [iOS][ios-client-sdk]
+* [Android][android-client-sdk]
 
 Demos:
 * [Jellyfish Dashboard]
@@ -29,6 +31,8 @@ Demos:
 [ts-client-sdk]: https://github.com/jellyfish-dev/ts-client-sdk
 [react-client-sdk]: https://github.com/jellyfish-dev/react-client-sdk
 [react-native-client-sdk]: https://github.com/jellyfish-dev/react-native-client-sdk 
+[ios-client-sdk]: https://github.com/jellyfish-dev/ios-client-sdk
+[android-client-sdk]: https://github.com/jellyfish-dev/android-client-sdk
 [Jellyfish Dashboard]: https://github.com/jellyfish-dev/jellyfish-dashboard
 [Jellyfish Videoroom]: https://github.com/jellyfish-dev/jellyfish_videoroom
 [Discord]: https://discord.gg/8WEaKweE7P
