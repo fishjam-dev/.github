@@ -4,6 +4,7 @@ General purpose media server written in Elixir!
 
 Check out a bunch of helpful links:
 
+* [Jellyfish]
 * [Documentation]
 * [Discord]
 
@@ -24,7 +25,7 @@ Demos:
 * [Jellyfish Videoroom]
 
 
-
+[Jellyfish]: https://github.com/jellyfish-dev/jellyfish
 [Documentation]: https://jellyfish-dev.github.io/jellyfish-docs/
 [elixir-server-sdk]: https://github.com/jellyfish-dev/elixir_server_sdk
 [python-server-sdk]: https://github.com/jellyfish-dev/python-server-sdk
