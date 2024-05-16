@@ -1,4 +1,4 @@
-# Jellyfish Media Server
+# Fishjam Media Server
 
 General purpose media server written in Elixir!
 
