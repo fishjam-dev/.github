@@ -1,3 +1,9 @@
+# Moving to the Fishjam Cloud
+
+Fishjam Media Server is continued as [Fishjam Cloud](https://cloud.fishjam.stream/).
+While this organization remains public, we won't push here any improvements or bugfixes.
+If you run your product on Fishjam and these changes affect your business, please contact us via projects@swmansion.com.
+
 # Fishjam Media Server
 
 General purpose media server written in Elixir!
