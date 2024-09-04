@@ -1,6 +1,6 @@
 # Moving to the Fishjam Cloud
 
-Fishjam Media Server is continued as [Fishjam Cloud](https://cloud.fishjam.stream/).
+Fishjam Media Server is continued as [Fishjam Cloud](https://fishjam.io/).
 While this organization remains public, we won't push here any improvements or bugfixes.
 If you run your product on Fishjam and these changes affect your business, please contact us via projects@swmansion.com.
 
